@@ -1,0 +1,20 @@
+import './node_modules/bootstrap/scss/bootstrap.scss'
+import './src/index.scss'
+
+import './node_modules/jquery/dist/jquery';
+import './node_modules/popper.js/dist/popper';
+import 'bootstrap'
+import "./image/1.jpg";
+import "./image/2.jpg";
+import "./image/3.jpg";
+import "./image/4.jpg";
+import "./image/5.jpg";
+import "./image/6.jpg";
+import "./image/7.jpg";
+import "./image/8.jpg";
+import "./image/9.jpg";
+import "./image/10.jpg";
+import "./image/11.jpg";
+import "./image/12.jpg";
+import "./image/13.jpg";
+import "./image/14.jpg";

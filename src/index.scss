@@ -1,0 +1,20 @@
+@import 'pim';
+body {background-image:url("https://images.template.net/wp-content/uploads/2015/11/25190740/Ash-Color-Plain-Wallpaper-Download.jpg");
+}
+$pri-color:black;
+navbar{
+    color: $pri-color;
+}
+.page-footer{
+.list-unstyled{
+        li {
+      list-style:none;
+        }
+    }   
+}
+@mixin textcenter {
+    text-align: center;
+}
+h1{
+    @include textcenter;
+}
